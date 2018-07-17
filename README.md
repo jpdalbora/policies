@@ -1,7 +1,7 @@
 Policies
 ========
 
-Mirror of policies for the Stumptown Syndicate. 
+underground BIM Policies
 
 * [Citizen Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
 * [Syndicate Code of Conduct](syndicate_code_of_conduct.md): Stumptown Syndicate specific Code of Conduct.
